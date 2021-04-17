@@ -7,4 +7,4 @@ Espan: ¡Con este proyecto puedes comprobar tus conocimientos e incluso puedes a
 
 German: Mit diesem Projekt können Sie Ihr Wissen überprüfen und sogar etwas lernen! Der Code für diese Anwendung ist in der Programmiersprache Python geschrieben. Danke für die Verwendung!
 
-Rus: С помощью этого пректа можно проверить свои знания и может даже что-то выучить! Код этого приложения написан на языке программирования Python. Спасибо за использование!
+Rus: С помощью этого проекта можно проверить свои знания и может даже что-то выучить! Код этого приложения написан на языке программирования Python. Спасибо за использование!
